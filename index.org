@@ -1,0 +1,26 @@
+#+TITLE: we.❤️📃.ws
+
+* Papers
+** Data Types a'la Carte - Swierstra, Wouter             :typetheory:haskell:
+- [[http://www.cs.ru.nl/~W.Swierstra/Publications/DataTypesALaCarte.pdf][Digital 💾]]
+
+*Description:*
+
+This paper describes a technique for assembling both data types and functions from isolated individual components. We also explore how the same technology can be used to combine free monads and, as a result, structure Haskell’s monolithic IO monad.
+
+*Source:*
+
+Cats documentation
+
+*Highlights:*
+* Books
+** Category Theory for Sciences - Spivak, Daniel I. :categorytheory:math:
+- [[https://www.amazon.de/Category-Theory-Sciences-MIT-Press/dp/0262028131][Print 📖]]
+- [[https://github.com/mmai/Category-Theory-for-the-Sciences][Digital 💾]]
+
+*Description:*
+
+*Highlights:*
+* Info
+** Adding new papers
+   Fork. Edit. Tag. PR. Discuss. Profit.
