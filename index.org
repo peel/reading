@@ -1,4 +1,10 @@
-#+TITLE: we.❤️📃.ws
+#+TITLE: i.❤️📃.ws
+#+SUBTITLE: Awesome papers and books
+#+OPTIONS: tags:not-in-toc author:nil
+#+HTML_HEAD_EXTRA: <link rel="shortcut icon" href="https://codearsonist.com/favicon.ico" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="https://codearsonist.com/assets/css/screen.css" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="https://dotfiles.codearsonist.com/css/style.css" />
+#+HTML_HEAD_EXTRA: <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto+Slab:700,300,400|Source+Code+Pro:500" />
 
 * Papers
 ** Data Types a'la Carte - Swierstra, Wouter             :typetheory:haskell:
